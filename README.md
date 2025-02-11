@@ -61,7 +61,7 @@ Instead of frantically smashing buttons, just **hold a key** for 1 second and *B
 First, grab the Qkey repo from GitHub:  
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Qkey.git
+git clone https://github.com/codewithriza/Qkey.git
 cd Qkey
 ```
 
