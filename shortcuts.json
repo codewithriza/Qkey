@@ -1,0 +1,5 @@
+{
+    "p": ["ctrl", "win", "right"],
+    "o": ["ctrl", "win", "left"],
+    "b": ["alt", "tab"]
+}
